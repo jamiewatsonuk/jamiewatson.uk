@@ -3,7 +3,7 @@ const tailwind = require("tailwindcss");
 const postcssPlugins = [tailwind()];
 
 module.exports = {
-  siteName: "Wtsn.dev",
+  siteName: "wtsn.dev",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
