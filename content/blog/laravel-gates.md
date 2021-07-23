@@ -2,6 +2,7 @@
 title: Laravel gates for guest users
 slug: laravel-gates-for-guest-users
 date: 2020-05-23
+excerpt: If you want to use Laravel's authorization gates in conjunction with a guest / non-authenticated user, make sure to set your user parameter as nullable.  Simple enough, but easily forgetten.
 ---
 
 It's not often that I use [authorization gates](https://laravel.com/docs/7.x/authorization#gates) for guest access to resources, if it ever happens.  So it took me a moment to work out why the gate I was writing would always deny (and not even run the function) when a user was not logged in.
