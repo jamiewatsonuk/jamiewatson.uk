@@ -6,6 +6,7 @@ module.exports = {
     "./src/**/*.html",
     "./src/**/*.pug",
     "./src/**/*.md",
+    "./content/**/*.md",
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
