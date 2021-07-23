@@ -11,6 +11,6 @@ To achieve this, I used the data layer of Gridsome to [pull all of the books](ht
 
 <figure class="md:-mx-12">
 
-![Book wall using Gridsome and Tailwind](./books.png)
+![Book wall using Gridsome and Tailwind](./books.jpg)
 <figcaption class="text-center">Book wall using Gridsome and Tailwind - <a href="https://github.com/jamiewatsonuk/books.wtsn.dev/" target="_blank">Source</a></figacaption>
 </figure>
