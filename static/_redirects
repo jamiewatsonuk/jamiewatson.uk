@@ -1,2 +1,4 @@
-https://jamiewatson.uk/*    https://www.wtsn.dev/
-https://www.jamiewatson.uk/*    https://www.wtsn.dev/
+https://jamiewatson.uk https://www.wtsn.dev 301!
+https://jamiewatson.uk https://www.wtsn.dev 301!
+https://jamiewatson.uk/* https://www.wtsn.dev/:splat 301!
+https://www.jamiewatson.uk/* https://www.wtsn.dev/:splat 301!
