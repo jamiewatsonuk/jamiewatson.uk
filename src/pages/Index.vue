@@ -3,8 +3,8 @@
     <div class="prose prose-lg">
       <h1 class="font-serif">Hi, I'm Jamie</h1>
       <p>
-        I'm a software developer based in Sheffield, England. I typically work
-        with Laravel, Vue and Tailwind.
+        I'm a software developer based in Sheffield, England.
+        I typically work with Laravel, Vue and Tailwind to build all kinds of web apps and integrations.
       </p>
       <div class="flex items-center space-x-6">
         <a href="https://twitter.com/jamiewatsonuk" rel="nofollow noreferrer" target="_blank">
