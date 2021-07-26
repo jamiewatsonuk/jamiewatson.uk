@@ -3,7 +3,7 @@
     <div class="prose prose-lg">
       <h1 class="font-serif">Hello!</h1>
       <p>
-        I'm Jamie, a software developer based in Sheffield, England.  I develop mainly in PHP using Laravel and Vue but have experience in a range of other technologies such as GCP and Node.
+        I'm Jamie, a software developer based in Sheffield, England.  I develop mainly in PHP using Laravel (with Vue/Tailwind for the frontend) but have experience in a range of other technologies such as GCP, Serverless and Node.
       </p>
       <div class="flex items-center space-x-6">
         <a href="https://twitter.com/jamiewatsonuk" rel="nofollow noreferrer" target="_blank">
