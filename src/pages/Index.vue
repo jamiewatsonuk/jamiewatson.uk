@@ -1,10 +1,9 @@
 <template>
   <Layout>
     <div class="prose prose-lg">
-      <h1 class="font-serif">Hi, I'm Jamie</h1>
+      <h1 class="font-serif">Hello!</h1>
       <p>
-        I'm a software developer based in Sheffield, England.
-        I typically work with Laravel, Vue and Tailwind to build all kinds of web apps and integrations.
+        I'm Jamie, a software developer based in Sheffield, England.  I develop mainly in PHP using Laravel and Vue but have experience in a range of other technologies such as GCP and Node.
       </p>
       <div class="flex items-center space-x-6">
         <a href="https://twitter.com/jamiewatsonuk" rel="nofollow noreferrer" target="_blank">
